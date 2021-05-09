@@ -4,7 +4,9 @@ Google Colabでソフトウェア開発を行う際に使用する便利なツ�
 
 | File | Explaination |
 -----------|-------------|
-| [github_command_execution.ipynb][0] | Colabから主要なGitコマンドを操作する
+| [spec_viewer.ipynb][000] | Colabの情報を確認する
+| [github_command_execution.ipynb][010] | Colabから主要なGitコマンドを操作する
 
 
-[0]: github_command_execution.ipynb
+[000]: spec_viewer.ipynb
+[010]: github_command_execution.ipynb
